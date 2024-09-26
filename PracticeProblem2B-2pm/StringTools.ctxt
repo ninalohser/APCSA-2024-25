@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StringTools
+comment0.text=\r\n\ Problem\ Set\ 2B\r\n\ Nina\ Lohser\r\n\ September\ 25th\ 2024\r\n
+comment1.params=str\ n
+comment1.target=java.lang.String\ frontAgain(java.lang.String,\ int)
+comment1.text=\ public\ String\ lastLetter(String\ str)\ {\r\n\ \ \ \ \ \ \ \ int\ len\ \=\ str.length();\ \r\n\ \ \ \ \ \ \ \ return\ str.substring(len-1);\r\n\ \ \ \ }\r\n\r\n\ \ \ \ public\ String\ formatPhoneNumber(String\ str){\r\n\ \ \ \ \ \ \ \ return\ "("\ +\ str.substring(0,\ 3)\ +\ ")\ "\ +\ str.substring(3,6)\ +\ "-"\ +\ str.substring(6,10);\r\n\ \ \ \ }\r\n\r\n\ \ \ \ public\ String\ middleThree(String\ str){\r\n\ \ \ \ \ \ \ \ int\ len\ \=\ str.length();\r\n\ \ \ \ \ \ \ \ int\ middle\ \=\ len/2;\r\n\ \ \ \ \ \ \ \ return\ str.substring(middle-1,\ middle+2);\r\n\ \ \ \ }\r\n\r\n\ \ \ \ public\ String\ swapLastTwo\ (String\ str){\r\n\ \ \ \ \ \ \ \ int\ len\ \=\ str.length();\r\n\ \ \ \ \ \ \ \ return\ \ str.substring(0,\ len-2)\ +\ str.substring(len-1)\ +\ str.substring(len-2,\ len-1);\r\n\ \ \ \ }\r\n
+numComments=2
