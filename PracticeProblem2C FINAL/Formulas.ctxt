@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Formulas
+comment0.text=\n\ Problem\ Set\ 2C\n\ Nina\ Lohser\n\ September\ 26th\n
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ Quadratic(double,\ double,\ double)
+comment2.params=y2\ y1\ x2\ x1
+comment2.target=double\ FindSlope(double,\ double,\ double,\ double)
+comment3.params=Mx1\ Mx2\ My1\ My2
+comment3.target=java.lang.String\ FindMidpoint(double,\ double,\ double,\ double)
+comment4.params=Aa\ Ad\ An
+comment4.target=double\ FindSumAri(double,\ double,\ int)
+comment5.params=Ga\ Gr\ Gn
+comment5.target=double\ FindSumGeo(double,\ double,\ int)
+comment6.params=limit
+comment6.target=int\ DieRoller(int)
+numComments=7
