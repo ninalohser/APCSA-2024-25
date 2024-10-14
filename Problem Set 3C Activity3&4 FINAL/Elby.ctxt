@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Elby
+comment1.params=
+comment1.target=java.lang.String\ getGreeting()
+comment1.text=\n\ Get\ a\ default\ greeting\n\n\ @return\ a\ greeting\n
+comment2.params=statement
+comment2.target=java.lang.String\ getResponse(java.lang.String)
+comment3.params=statement
+comment3.target=java.lang.String\ transformYouMeStatement(java.lang.String)
+comment4.params=statement
+comment4.target=java.lang.String\ transformIWantToStatement(java.lang.String)
+comment5.params=statement
+comment5.target=java.lang.String\ transformIWantStatement(java.lang.String)
+comment6.params=statement
+comment6.target=java.lang.String\ transformIMeStatement(java.lang.String)
+comment7.params=statement\ goal\ startPos
+comment7.target=int\ findKeyword(java.lang.String,\ java.lang.String,\ int)
+comment8.params=
+comment8.target=java.lang.String\ getRandomResponse()
+comment8.text=\n\ Pick\ a\ default\ response\ to\ use\ if\ nothing\ else\ fits.\n\n\ @return\ a\ non-committal\ string\n
+numComments=9
